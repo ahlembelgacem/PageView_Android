@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english">English</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="smarty">Smarty</string>
+
+    <string name="name"> Your Name</string>
+    <string name="your_name">Your Name</string>
+    <string name="welcome_jordon">Welcome,Jordan!</string>
+    <string name="app_name">Trav</string>
+    <string name="living_room">Living Room</string>
+    <string name="_4_devices">4 Devices</string>
+    <string name="media_room">Media Room</string>
+    <string name="_6_devices">6 Devices</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="_1_devices">1 Devices</string>
+    <string name="_3_devices">3 Devices</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="date">date</string>
+    <string name="cont">continue</string>
+</resources>
